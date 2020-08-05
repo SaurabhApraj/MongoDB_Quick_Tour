@@ -78,7 +78,7 @@ db.student.find()
 ```bash
 db.student.find().pretty()
 ```
-## .find(<Query>,<Projection>)
+## .find(Query,Projection)
 ## Query
 ### Comparison Query Operators
 #### $eq - equal to
